@@ -1,0 +1,60 @@
+04/18/2026 10:38:23 AM: INFO: *************** Test_001_Login *****************
+04/18/2026 10:38:23 AM: INFO: ****Started Home page title test ****
+04/18/2026 10:38:23 AM: INFO: ****Opening URL****
+04/18/2026 10:38:25 AM: INFO: **** Home page title test passed ****
+04/18/2026 10:38:25 AM: ERROR: **** Home page title test failed****
+04/18/2026 10:38:27 AM: INFO: ****Started Login Test****
+04/18/2026 10:39:15 AM: INFO: *************** Test_001_Login *****************
+04/18/2026 10:39:15 AM: INFO: ****Started Home page title test ****
+04/18/2026 10:39:15 AM: INFO: ****Opening URL****
+04/18/2026 10:39:16 AM: INFO: **** Home page title test passed ****
+04/18/2026 10:39:16 AM: ERROR: **** Home page title test failed****
+04/18/2026 10:39:17 AM: INFO: ****Started Login Test****
+04/18/2026 10:52:04 AM: INFO: *************** Test_001_Login *****************
+04/18/2026 10:52:04 AM: INFO: ****Started Home page title test ****
+04/18/2026 10:52:04 AM: INFO: ****Opening URL****
+04/18/2026 10:52:05 AM: INFO: **** Home page title test passed ****
+04/18/2026 10:52:05 AM: ERROR: **** Home page title test failed****
+04/18/2026 10:52:06 AM: INFO: ****Started Login Test****
+04/19/2026 12:07:22 AM: INFO: ************* Test_003_AddCustomer **********
+04/19/2026 12:07:23 AM: INFO: ************* Login Successful **********
+04/19/2026 12:07:23 AM: INFO: ******* Starting Add Customer Test **********
+04/19/2026 12:07:44 AM: INFO: ************* Test_003_AddCustomer **********
+04/19/2026 12:07:45 AM: INFO: ************* Login Successful **********
+04/19/2026 12:07:45 AM: INFO: ******* Starting Add Customer Test **********
+04/19/2026 12:09:30 AM: INFO: ************* Test_003_AddCustomer **********
+04/19/2026 12:09:31 AM: INFO: ************* Login Successful **********
+04/19/2026 12:09:31 AM: INFO: ******* Starting Add Customer Test **********
+04/19/2026 12:09:42 AM: INFO: *************** Test_001_Login *****************
+04/19/2026 12:09:42 AM: INFO: ****Started Home page title test ****
+04/19/2026 12:09:42 AM: INFO: ****Opening URL****
+04/19/2026 12:09:43 AM: INFO: **** Home page title test passed ****
+04/19/2026 12:09:43 AM: ERROR: **** Home page title test failed****
+04/19/2026 12:09:44 AM: INFO: ****Started Login Test****
+04/19/2026 12:11:16 AM: INFO: ************* Test_003_AddCustomer **********
+04/19/2026 12:11:17 AM: INFO: ************* Login Successful **********
+04/19/2026 12:11:17 AM: INFO: ******* Starting Add Customer Test **********
+04/19/2026 12:14:27 AM: INFO: ************* Test_003_AddCustomer **********
+04/19/2026 12:14:29 AM: INFO: ************* Login Successful **********
+04/19/2026 12:14:29 AM: INFO: ******* Starting Add Customer Test **********
+04/19/2026 12:15:51 AM: INFO: ************* Test_003_AddCustomer **********
+04/19/2026 12:15:52 AM: INFO: ************* Login Successful **********
+04/19/2026 12:15:52 AM: INFO: ******* Starting Add Customer Test **********
+04/19/2026 12:21:44 AM: INFO: ************* Test_003_AddCustomer **********
+04/19/2026 12:21:45 AM: INFO: ************* Login Successful **********
+04/19/2026 12:21:45 AM: INFO: ******* Starting Add Customer Test **********
+04/19/2026 12:46:47 AM: INFO: ************* Test_003_AddCustomer **********
+04/19/2026 12:46:48 AM: INFO: ************* Login Successful **********
+04/19/2026 12:46:48 AM: INFO: ******* Starting Add Customer Test **********
+04/19/2026 12:49:17 AM: INFO: ************* Test_003_AddCustomer **********
+04/19/2026 12:49:19 AM: INFO: ************* Login Successful **********
+04/19/2026 12:49:19 AM: INFO: ******* Starting Add Customer Test **********
+04/19/2026 12:50:30 AM: INFO: ************* Test_003_AddCustomer **********
+04/19/2026 12:50:31 AM: INFO: ************* Login Successful **********
+04/19/2026 12:50:31 AM: INFO: ******* Starting Add Customer Test **********
+04/19/2026 12:52:44 AM: INFO: ************* Test_003_AddCustomer **********
+04/19/2026 12:52:51 AM: INFO: ************* Login Successful **********
+04/19/2026 12:52:51 AM: INFO: ******* Starting Add Customer Test **********
+04/19/2026 12:55:25 AM: INFO: ************* Test_003_AddCustomer **********
+04/19/2026 12:55:32 AM: INFO: ************* Login Successful **********
+04/19/2026 12:55:32 AM: INFO: ******* Starting Add Customer Test **********
